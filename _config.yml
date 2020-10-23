@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sanjeev Mk"
+title                    : "Sanjeev Mk | Research"
 title_separator          : "-"
 name                     : &name "Sanjeev"
 description              : &description "PhD Student, UCL"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sanjeev Mk"
+  name             : "Sanjeev Muralikrishnan"
   avatar           : "profile.png"
   bio              : "AI Researcher"
   employer         :

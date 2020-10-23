@@ -17,7 +17,7 @@ The goal of my research is to augment human creativity with machine intelligence
 Publications
 ------------
 
-<div style="display:block;font-size:30px;font-family:'Open Sans',sans-serif">
+<div style="display:block;font-size:20px;font-family:'Open Sans',sans-serif">
 <ol style="padding:0px;list-style-type:none">
 
 <li style="position:relative;">
@@ -27,11 +27,11 @@ Publications
 <div style="float:left;padding-top:12px">
 <b>Shape Unicode: A Unified Shape Representation</b>
 <br>
-CVPR, 2019
+<span style="font-size:101%; color:rgb(0,10,0)">CVPR 2019</span>
 <br>
 <div style="padding-top:2px">
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px">
-<span style="font-size:105%; color:rgb(0,10,0)">Sanjeev Muralikrishnan</span>, Vladimir Kim, Matthew Fisher, Siddhartha Chaudhuri.
+<span style="font-size:101%; color:rgb(0,10,0)">Sanjeev Muralikrishnan</span>, Vladimir Kim, Matthew Fisher, Siddhartha Chaudhuri.
 </span>
 <a style="color:rgb(00,60,90);font-weight:bold" href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Muralikrishnan_Shape_Unicode_A_Unified_Shape_Representation_CVPR_2019_paper.pdf">Paper</a>
 </div>
@@ -41,12 +41,12 @@ CVPR, 2019
 
 <li style="position:relative;">
 
-<img style="float: left;width:300px;height:auto; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/shapeunicode.png">
+<img style="float: left;width:300px;height:auto; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/tags2parts.png">
 
 <div style="float:left;padding-top:12px">
 <b>Tags2Parts: Discovering Semanting Regions From Shape Tags</b>
 <br>
-CVPR, 2018
+<span style="font-size:101%; color:rgb(0,10,0)">CVPR 2018</span>
 <br>
 <div style="padding-top:2px">
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px">
