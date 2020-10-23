@@ -18,3 +18,6 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}
 
+---
+Blah
+---
