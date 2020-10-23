@@ -17,23 +17,22 @@ The goal of my research is to augment human creativity with machine intelligence
 Publications
 ------------
 
-<table>
-<tr>
-<td>
-<img style="float: right;width:200;height:auto" src="images/shapeunicode.png">
-</td>
+<div style="display:block">
+<ol style="padding:0px;list-style-type:none">
 
-<td>
-Continue markdown text...
-</td>
-</tr>
+<li style="position:relative;font-size:15px;font-family:'Open Sans',sans-serif">
 
-<tr>
-<td>
-<img style="float: right;width:200;height:auto" src="images/tags2parts.png">
-</td>
-<td>
-Continue markdown text...
-</td>
-</tr>
-</table>
+<img style="float: left;width:200;height:auto" src="images/shapeunicode.png">
+
+<div style="float:left; font-family:'Open Sans',sans-serif">
+<div style="font-family:'Open Sans',sans-serif">
+<b>Shape Unicode</b>
+</div>
+<div style="font-family:'Open Sans',sans-serif">
+Sanjeev Muralikrishnan
+</div>
+</div>
+</li>
+
+</ol>
+</div>
