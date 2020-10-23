@@ -33,7 +33,7 @@ Publications
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px">
 <span style="font-size:101%; color:rgb(0,10,0)">Sanjeev Muralikrishnan</span>, Vladimir Kim, Matthew Fisher, Siddhartha Chaudhuri.
 </span>
-<a style="color:rgb(00,60,90);font-weight:bold" href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Muralikrishnan_Shape_Unicode_A_Unified_Shape_Representation_CVPR_2019_paper.pdf">Paper</a>
+<a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Muralikrishnan_Shape_Unicode_A_Unified_Shape_Representation_CVPR_2019_paper.pdf">Paper</a>
 </div>
 </div>
 <div style="clear:both"></div>
@@ -52,8 +52,8 @@ Publications
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px">
 <span style="font-size:101%; color:rgb(0,10,0)">Sanjeev Muralikrishnan</span>, Vladimir Kim, Siddhartha Chaudhuri.
 </span>
-<a style="color:rgb(00,60,90);font-weight:bold" href="https://arxiv.org/pdf/1708.06673.pdf">Paper</a>
- | <a style="color:rgb(00,60,90);font-weight:bold" href="https://www.cse.iitb.ac.in/~sidch/projects/tags2parts/index.html">Project Page</a>
+<a href="https://arxiv.org/pdf/1708.06673.pdf">Paper</a>
+ | <a href="https://www.cse.iitb.ac.in/~sidch/projects/tags2parts/index.html">Project Page</a>
 </div>
 </div>
 
