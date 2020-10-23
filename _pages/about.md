@@ -8,11 +8,19 @@ Before that, I worked as a Research Engineer at [Adobe Research's](https://resea
 I completed my Master's in Computer Science at [IIT Bombay](http://www.iitb.ac.in/), advised by [Prof. Siddhartha Chaudhuri](https://www.cse.iitb.ac.in/~sidch), and covered by [Qualcomm Innovation Fellowship](https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship/winners). 
 
 
-Research Interest
-=================
+Research
+--------
 
 The goal of my research is to augment human creativity with machine intelligence, enabling not just smarter but novel designs for 3D objects. As such, my research lies at the intersection of machine learning,computer graphics and computer vision. My current focus is on neural generation and rendering of 3D geometry, and learning semantic representations for the same.
 
 
 Publications
-============
+------------
+<img style="float: right;" src="images/tags2parts.jpg">
+
+Continue markdown text...
+
+<img style="float: right;" src="images/shapeunicode.jpg">
+
+Continue markdown text...
+
