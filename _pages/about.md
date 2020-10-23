@@ -16,11 +16,11 @@ The goal of my research is to augment human creativity with machine intelligence
 
 Publications
 ------------
-<img style="float: right;" src="images/tags2parts.jpg">
+<img style="float: left;width:200px;height:auto" src="images/tags2parts.png">
 
 Continue markdown text...
 
-<img style="float: right;" src="images/shapeunicode.jpg">
+<img style="float: left;width:200px;height:auto" src="images/shapeunicode.png">
 
 Continue markdown text...
 
