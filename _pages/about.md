@@ -17,7 +17,7 @@ The goal of my research is to augment human creativity with machine intelligence
 Publications
 ------------
 
-<div style="display:block;font-size:20px;font-family:'Open Sans',sans-serif">
+<div style="display:block;font-size:15px;font-family:'Open Sans',sans-serif">
 <ol style="padding:0px;list-style-type:none">
 
 <li style="position:relative;">
@@ -50,7 +50,7 @@ Publications
 <br>
 <div style="padding-top:2px">
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px">
-<span style="font-size:105%; color:rgb(0,10,0)">Sanjeev Muralikrishnan</span>, Vladimir Kim, Siddhartha Chaudhuri.
+<span style="font-size:101%; color:rgb(0,10,0)">Sanjeev Muralikrishnan</span>, Vladimir Kim, Siddhartha Chaudhuri.
 </span>
 <a style="color:rgb(00,60,90);font-weight:bold" href="https://arxiv.org/pdf/1708.06673.pdf">Paper</a>
  | <a style="color:rgb(00,60,90);font-weight:bold" href="https://www.cse.iitb.ac.in/~sidch/projects/tags2parts/index.html">Project Page</a>
