@@ -20,7 +20,7 @@ Publications
 <div style="display:block;font-size:15px;font-family:'Open Sans',sans-serif">
 <ol style="padding:0px;list-style-type:none">
 
-<li style="position:relative;">
+<li style="padding-bottom:20px; position:relative;">
 
 <img style="float: left;width:200px;height:auto; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/shapeunicode.png">
 
@@ -36,10 +36,10 @@ Publications
 <a style="color:rgb(00,60,90);font-weight:bold" href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Muralikrishnan_Shape_Unicode_A_Unified_Shape_Representation_CVPR_2019_paper.pdf">Paper</a>
 </div>
 </div>
-
+<div style="clear:both"></div>
 </li>
 
-<li style="position:relative;">
+<li style="padding-bottom:20px;position:relative;">
 
 <img style="float: left;width:200px;height:auto; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/tags2parts.png">
 
@@ -57,6 +57,7 @@ Publications
 </div>
 </div>
 
+<div style="clear:both"></div>
 </li>
 
 </ol>
