@@ -22,7 +22,7 @@ Publications
 
 <li style="position:relative;">
 
-<img style="float: left;width:300px;height:auto; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/shapeunicode.png">
+<img style="float: left;width:200px;height:auto; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/shapeunicode.png">
 
 <div style="float:left;padding-top:12px">
 <b>Shape Unicode: A Unified Shape Representation</b>
@@ -41,7 +41,7 @@ Publications
 
 <li style="position:relative;">
 
-<img style="float: left;width:300px;height:auto; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/tags2parts.png">
+<img style="float: left;width:200px;height:auto; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/tags2parts.png">
 
 <div style="float:left;padding-top:12px">
 <b>Tags2Parts: Discovering Semanting Regions From Shape Tags</b>
