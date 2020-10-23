@@ -17,21 +17,21 @@ The goal of my research is to augment human creativity with machine intelligence
 Publications
 ------------
 
-<div style="display:block">
+<div style="display:block;font-size:15px;font-family:'Open Sans',sans-serif">
 <ol style="padding:0px;list-style-type:none">
 
-<li style="position:relative;font-size:15px;font-family:'Open Sans',sans-serif">
+<li style="position:relative;">
 
-<img style="float: left;width:200;height:auto" src="images/shapeunicode.png">
+<img style="float: left;width:200px;height:auto" src="images/shapeunicode.png">
 
-<div style="float:left; font-family:'Open Sans',sans-serif">
-<div style="font-family:'Open Sans',sans-serif">
+<div style="float:left;">
 <b>Shape Unicode</b>
-</div>
-<div style="font-family:'Open Sans',sans-serif">
+<br>
+<div>
 Sanjeev Muralikrishnan
 </div>
 </div>
+
 </li>
 
 </ol>
