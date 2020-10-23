@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Sanjeev Mk"
   avatar           : "profile.png"
-  bio              : "AI Researcher"
-  location         : "Location"
+  bio              : "ML Researcher"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bm6jItIAAAAJ&hl=en"
@@ -103,13 +102,11 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
