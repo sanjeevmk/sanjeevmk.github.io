@@ -20,7 +20,7 @@ Publications
 <table>
 <tr>
 <td>
-<img style="float: right;width:400;height:auto" src="images/shapeunicode.png">
+<img style="float: right;width:200;height:auto" src="images/shapeunicode.png">
 </td>
 
 <td>
@@ -30,7 +30,7 @@ Continue markdown text...
 
 <tr>
 <td>
-<img style="float: right;width:400;height:auto" src="images/tags2parts.png">
+<img style="float: right;width:200;height:auto" src="images/tags2parts.png">
 </td>
 <td>
 Continue markdown text...
