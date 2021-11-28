@@ -22,7 +22,7 @@ Publications
 
 <li style="padding-bottom:20px; position:relative;">
 
-<img style="float: left;width:200px;height:200px; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/shapeunicode.png">
+<img style="float: left;width:200px;height:200px; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/glass.png">
 
 <div style="float:left;padding-top:12px">
 <b>GLASS: Geometric Latent Augmentation</b>
@@ -35,7 +35,6 @@ Publications
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
 <span style="font-size:101%; color:rgb(0,10,0);">Sanjeev Muralikrishnan</span>, Siddhartha Chaudhuri, Noam Aigerman,
 </span>
-<br>
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
 Vladimir Kim, Matthew Fisher, Niloy Mitra.
 </span>
