@@ -27,13 +27,17 @@ Publications
 <div style="float:left;padding-top:12px">
 <b>GLASS: Geometric Latent Augmentation</b>
 <br>
-<b> for Shape Space</b>
+<b> for Shape Spaces</b>
 <br>
 <span style="font-size:101%; color:rgb(0,10,0)">TBA</span>
 <br>
 <div style="padding-top:2px">
-<span style="display:block; color:rgb(80,80,80);padding-bottom:3px;  display:block; word-wrap:break-word;">
-<span style="font-size:101%; color:rgb(0,10,0);">Sanjeev Muralikrishnan</span>, Siddhartha Chaudhuri, Noam Aigerman, Vladimir Kim, Matthew Fisher, Niloy Mitra.
+<span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
+<span style="font-size:101%; color:rgb(0,10,0);">Sanjeev Muralikrishnan</span>, Siddhartha Chaudhuri, Noam Aigerman,
+</span>
+<br>
+<span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
+Vladimir Kim, Matthew Fisher, Niloy Mitra.
 </span>
 <a href="https://arxiv.org/abs/2108.03225">Paper</a>
 </div>
