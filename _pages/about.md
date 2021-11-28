@@ -31,7 +31,7 @@ Publications
 <br>
 <div style="padding-top:2px">
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px">
-<span style="font-size:101%; color:rgb(0,10,0)">Sanjeev Muralikrishnan</span>, Siddhartha Chaudhuri, Noam Aigerman, Vladimir Kim, Matthew Fisher, Niloy Mitra.
+<span style="font-size:101%; color:rgb(0,10,0); display:block; word-wrap:break-word;">Sanjeev Muralikrishnan</span>, Siddhartha Chaudhuri, Noam Aigerman, Vladimir Kim, Matthew Fisher, Niloy Mitra.
 </span>
 <a href="https://arxiv.org/abs/2108.03225">Paper</a>
 </div>
