@@ -25,6 +25,25 @@ Publications
 <img style="float: left;width:200px;height:200px; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/shapeunicode.png">
 
 <div style="float:left;padding-top:12px">
+<b>GLASS: Geometric Latent Augmentation for Shape Spaces</b>
+<br>
+<span style="font-size:101%; color:rgb(0,10,0)">TBA</span>
+<br>
+<div style="padding-top:2px">
+<span style="display:block; color:rgb(80,80,80);padding-bottom:3px">
+<span style="font-size:101%; color:rgb(0,10,0)">Sanjeev Muralikrishnan</span>, Siddhartha Chaudhuri, Noam Aigerman, Vladimir Kim, Matthew Fisher, Niloy Mitra.
+</span>
+<a href="https://arxiv.org/abs/2108.03225">Paper</a>
+</div>
+</div>
+<div style="clear:both"></div>
+</li>
+
+<li style="padding-bottom:20px; position:relative;">
+
+<img style="float: left;width:200px;height:200px; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/shapeunicode.png">
+
+<div style="float:left;padding-top:12px">
 <b>Shape Unicode: A Unified Shape Representation</b>
 <br>
 <span style="font-size:101%; color:rgb(0,10,0)">CVPR 2019</span>
