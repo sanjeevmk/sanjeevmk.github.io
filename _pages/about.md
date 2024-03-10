@@ -42,7 +42,7 @@ Publications
 
 <li style="padding-bottom:20px; position:relative;">
 
-<img style="float: left;width:200px;height:200px; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/bliss.png">
+<img style="float: left; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/bliss.png">
 
 <div style="float:left;padding-top:12px">
 <b>BLiSS: Bootstrapped Linear Shape Space</b>
@@ -61,7 +61,7 @@ Publications
 
 <li style="padding-bottom:20px; position:relative;">
 
-<img style="float: left;width:200px;height:200px; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/glass.png">
+<img style="float: left; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/glass.png">
 
 <div style="float:left;padding-top:12px">
 <b>GLASS: Geometric Latent Augmentation</b>
@@ -104,7 +104,7 @@ Vladimir Kim, Matthew Fisher, Niloy J. Mitra.
 
 <li style="padding-bottom:20px;position:relative;">
 
-<img style="float: left;width:200px;height:200px; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/tags2parts.png">
+<img style="float: left; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/tags2parts.png">
 
 <div style="float:left;padding-top:12px">
 <b>Tags2Parts: Discovering Semanting Regions From Shape Tags</b>
