@@ -22,7 +22,7 @@ Publications
 
 <li style="padding-bottom:20px; position:relative;">
 
-<img style="float: left;width:200px;height:200px; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/diff3f.jpeg">
+<img style="float: left; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/diff3f.jpeg">
 
 <div style="float:left;padding-top:12px">
 <b>Diffusion 3D Features (Diff3F)</b>
