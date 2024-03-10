@@ -31,7 +31,7 @@ Publications
 <br>
 <div style="padding-top:2px">
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
-Niladri Shekhar Dutt, <span style="font-size:103%; color:rgb(0,10,0);">NSanjeev Muralikrishnan</span>, Niloy J. Mitra.
+Niladri Shekhar Dutt, <span style="font-size:104%; color:rgb(0,10,0);">Sanjeev Muralikrishnan</span>, Niloy J. Mitra.
 </span>
 <a href="https://arxiv.org/abs/2311.17024">Paper</a>
 </div>
@@ -51,7 +51,7 @@ Niladri Shekhar Dutt, <span style="font-size:103%; color:rgb(0,10,0);">NSanjeev 
 <br>
 <div style="padding-top:2px">
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
-<span style="font-size:101%; color:rgb(0,10,0);">Sanjeev Muralikrishnan</span>, Chun-Hao Paul Huang, Duygu Ceylan, Niloy J. Mitra.
+<span style="font-size:104%; color:rgb(0,10,0);">Sanjeev Muralikrishnan</span>, Chun-Hao Paul Huang, Duygu Ceylan, Niloy J. Mitra.
 </span>
 <a href="https://arxiv.org/abs/2309.01765">Paper</a>
 </div>
@@ -72,7 +72,7 @@ Niladri Shekhar Dutt, <span style="font-size:103%; color:rgb(0,10,0);">NSanjeev 
 <br>
 <div style="padding-top:2px">
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
-<span style="font-size:101%; color:rgb(0,10,0);">Sanjeev Muralikrishnan</span>, Siddhartha Chaudhuri, Noam Aigerman,
+<span style="font-size:104%; color:rgb(0,10,0);">Sanjeev Muralikrishnan</span>, Siddhartha Chaudhuri, Noam Aigerman,
 </span>
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
 Vladimir Kim, Matthew Fisher, Niloy J. Mitra.
@@ -94,7 +94,7 @@ Vladimir Kim, Matthew Fisher, Niloy J. Mitra.
 <br>
 <div style="padding-top:2px">
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px">
-<span style="font-size:101%; color:rgb(0,10,0)">Sanjeev Muralikrishnan</span>, Vladimir Kim, Matthew Fisher, Siddhartha Chaudhuri.
+<span style="font-size:104%; color:rgb(0,10,0)">Sanjeev Muralikrishnan</span>, Vladimir Kim, Matthew Fisher, Siddhartha Chaudhuri.
 </span>
 <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Muralikrishnan_Shape_Unicode_A_Unified_Shape_Representation_CVPR_2019_paper.pdf">Paper</a>
 </div>
@@ -113,7 +113,7 @@ Vladimir Kim, Matthew Fisher, Niloy J. Mitra.
 <br>
 <div style="padding-top:2px">
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px">
-<span style="font-size:101%; color:rgb(0,10,0)">Sanjeev Muralikrishnan</span>, Vladimir Kim, Siddhartha Chaudhuri.
+<span style="font-size:104%; color:rgb(0,10,0)">Sanjeev Muralikrishnan</span>, Vladimir Kim, Siddhartha Chaudhuri.
 </span>
 <a href="https://arxiv.org/pdf/1708.06673.pdf">Paper</a>
  | <a href="https://www.cse.iitb.ac.in/~sidch/projects/tags2parts/index.html">Project Page</a>
