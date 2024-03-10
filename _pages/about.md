@@ -31,7 +31,7 @@ Publications
 <br>
 <div style="padding-top:2px">
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
-<span style="font-size:101%; color:rgb(0,10,0);">Niladri Shekhar Dutt</span>, Sanjeev Muralikrishnan, Niloy J. Mitra.
+Niladri Shekhar Dutt, <span style="font-size:103%; color:rgb(0,10,0);">NSanjeev Muralikrishnan</span>, Niloy J. Mitra.
 </span>
 <a href="https://arxiv.org/abs/2311.17024">Paper</a>
 </div>
