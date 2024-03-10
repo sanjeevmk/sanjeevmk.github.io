@@ -22,6 +22,45 @@ Publications
 
 <li style="padding-bottom:20px; position:relative;">
 
+<img style="float: left;width:200px;height:200px; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/diff3f.jpeg">
+
+<div style="float:left;padding-top:12px">
+<b>Diffusion 3D Features (Diff3F)</b>
+<br>
+<span style="font-size:101%; color:rgb(0,10,0)">CVPR 2024</span>
+<br>
+<div style="padding-top:2px">
+<span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
+<span style="font-size:101%; color:rgb(0,10,0);">Niladri Shekhar Dutt</span>, Sanjeev Muralikrishnan, Niloy J. Mitra.
+</span>
+<a href="https://arxiv.org/abs/2311.17024">Paper</a>
+</div>
+</div>
+<div style="clear:both"></div>
+</li>
+
+
+<li style="padding-bottom:20px; position:relative;">
+
+<img style="float: left;width:200px;height:200px; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/bliss.png">
+
+<div style="float:left;padding-top:12px">
+<b>BLiSS: Bootstrapped Linear Shape Space</b>
+<br>
+<span style="font-size:101%; color:rgb(0,10,0)">3DV 2024</span>
+<br>
+<div style="padding-top:2px">
+<span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
+<span style="font-size:101%; color:rgb(0,10,0);">Sanjeev Muralikrishnan</span>, Chun-Hao Paul Huang, Duygu Ceylan, Niloy J. Mitra.
+</span>
+<a href="https://arxiv.org/abs/2309.01765">Paper</a>
+</div>
+</div>
+<div style="clear:both"></div>
+</li>
+
+<li style="padding-bottom:20px; position:relative;">
+
 <img style="float: left;width:200px;height:200px; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/glass.png">
 
 <div style="float:left;padding-top:12px">
@@ -29,14 +68,14 @@ Publications
 <br>
 <b> for Shape Spaces</b>
 <br>
-<span style="font-size:101%; color:rgb(0,10,0)">TBA</span>
+<span style="font-size:101%; color:rgb(0,10,0)">CVPR 2022</span>
 <br>
 <div style="padding-top:2px">
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
 <span style="font-size:101%; color:rgb(0,10,0);">Sanjeev Muralikrishnan</span>, Siddhartha Chaudhuri, Noam Aigerman,
 </span>
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
-Vladimir Kim, Matthew Fisher, Niloy Mitra.
+Vladimir Kim, Matthew Fisher, Niloy J. Mitra.
 </span>
 <a href="https://arxiv.org/abs/2108.03225">Paper</a>
 </div>
