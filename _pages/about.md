@@ -2,11 +2,11 @@
 permalink: /
 author_profile: true
 ---
-
 I'm a Final Year Computer Science PhD at [University College London](https://www.ucl.ac.uk/) advised by [Prof. Niloy J Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), as part of the [Smart Geometry Group](https://geometry.cs.ucl.ac.uk/).
 Before that, I worked as a Research Engineer at [Adobe Research's](https://research.adobe.com/) Creative Intelligence Lab, where my research was advised by [Siddhartha Chaudhuri](https://www.cse.iitb.ac.in/~sidch/index.html), [Vladimir Kim](http://www.vovakim.com/), [Matthew Fisher](https://techmatt.github.io/) and [Noam Aigerman](https://noamaig.github.io/).
 I completed my Master's in Computer Science at [IIT Bombay](http://www.iitb.ac.in/), advised by [Prof. Siddhartha Chaudhuri](https://www.cse.iitb.ac.in/~sidch), and covered by [Qualcomm Innovation Fellowship](https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship/winners). 
 
+I plan on submitting my thesis in the coming months and am actively looking for long-term GenAI research roles. Feel free to contact me for any research opportunities!
 
 Research
 --------
@@ -33,7 +33,8 @@ Publications
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
 <span style="font-size:104%; color:rgb(0,10,0);">Sanjeev Muralikrishnan</span>, Niladri Shekhar Dutt, Siddhartha Chaudhuri, Noam Aigerman, Vladimir Kim, Matthew Fisher, Niloy J. Mitra.
 </span>
-<a href="https://arxiv.org/pdf/2407.14958">Paper</a>
+<a href="https://github.com/sanjeevmk/TRJ">Code</a>
+ | <a href="https://arxiv.org/pdf/2407.14958">Paper</a>
  | <a href="https://temporaljacobians.github.io/">Project Page</a>
 </div>
 </div>
@@ -54,7 +55,8 @@ Publications
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
 Niladri Shekhar Dutt, <span style="font-size:104%; color:rgb(0,10,0);">Sanjeev Muralikrishnan</span>, Niloy J. Mitra.
 </span>
-<a href="https://arxiv.org/abs/2311.17024">Paper</a> 
+<a href="https://github.com/niladridutt/Diffusion-3D-Features">Code</a> 
+ | <a href="https://arxiv.org/abs/2311.17024">Paper</a> 
  | <a href="https://diff3f.github.io/">Project Page</a> 
 </div>
 </div>
@@ -75,7 +77,8 @@ Niladri Shekhar Dutt, <span style="font-size:104%; color:rgb(0,10,0);">Sanjeev M
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
 <span style="font-size:104%; color:rgb(0,10,0);">Sanjeev Muralikrishnan</span>, Chun-Hao Paul Huang, Duygu Ceylan, Niloy J. Mitra.
 </span>
-<a href="https://arxiv.org/abs/2309.01765">Paper</a>
+<a href="https://github.com/sanjeevmk/BLiSS">Code</a>
+ | <a href="https://arxiv.org/abs/2309.01765">Paper</a>
  | <a href="https://sanjeevmk.github.io/bliss_webpage/">Project Page</a>
 </div>
 </div>
@@ -100,7 +103,9 @@ Niladri Shekhar Dutt, <span style="font-size:104%; color:rgb(0,10,0);">Sanjeev M
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
 Vladimir Kim, Matthew Fisher, Niloy J. Mitra.
 </span>
-<a href="https://arxiv.org/abs/2108.03225">Paper</a>
+<a href="https://github.com/sanjeevmk/glass">Code</a>
+ | <a href="https://arxiv.org/abs/2108.03225">Paper</a>
+ | <a href="https://sanjeevmk.github.io/glass_webpage/">Project Page</a>
 </div>
 </div>
 <div style="clear:both"></div>

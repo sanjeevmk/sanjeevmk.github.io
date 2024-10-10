@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sanjeev Mk"
   avatar           : "profile.png"
-  bio              : "AI Researcher"
+  bio              : "GenAI Researcher"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bm6jItIAAAAJ&hl=en"
-  email            :
+  email            : "sanjeev.muralikrishnan.20@ucl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
