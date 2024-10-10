@@ -22,6 +22,27 @@ Publications
 
 <li style="padding-bottom:20px; position:relative;">
 
+<img style="float: left; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/trj_teaser.png">
+
+<div style="float:left;padding-top:12px">
+<b>Temporal Residual Jacobians for Rig-free Motion Transfer</b>
+<br>
+<span style="font-size:101%; color:rgb(0,10,0)">ECCV 2024</span>
+<br>
+<div style="padding-top:2px">
+<span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
+<span style="font-size:104%; color:rgb(0,10,0);">Sanjeev Muralikrishnan</span>, Niladri Shekhar Dutt, Siddhartha Chaudhuri, Noam Aigerman, Vladimir Kim, Matthew Fisher, Niloy J. Mitra.
+</span>
+<a href="https://arxiv.org/pdf/2407.14958">Paper</a>
+ | <a href="https://temporaljacobians.github.io/">Project Page</a>
+</div>
+</div>
+<div style="clear:both"></div>
+</li>
+
+
+<li style="padding-bottom:20px; position:relative;">
+
 <img style="float: left; padding:5px; margin-right:10px; max-width:100%; max-height:100%" src="images/diff3f.jpeg">
 
 <div style="float:left;padding-top:12px">
@@ -33,7 +54,8 @@ Publications
 <span style="display:block; color:rgb(80,80,80);padding-bottom:3px;">
 Niladri Shekhar Dutt, <span style="font-size:104%; color:rgb(0,10,0);">Sanjeev Muralikrishnan</span>, Niloy J. Mitra.
 </span>
-<a href="https://arxiv.org/abs/2311.17024">Paper</a>
+<a href="https://arxiv.org/abs/2311.17024">Paper</a> 
+ | <a href="https://diff3f.github.io/">Project Page</a> 
 </div>
 </div>
 <div style="clear:both"></div>
@@ -54,6 +76,7 @@ Niladri Shekhar Dutt, <span style="font-size:104%; color:rgb(0,10,0);">Sanjeev M
 <span style="font-size:104%; color:rgb(0,10,0);">Sanjeev Muralikrishnan</span>, Chun-Hao Paul Huang, Duygu Ceylan, Niloy J. Mitra.
 </span>
 <a href="https://arxiv.org/abs/2309.01765">Paper</a>
+ | <a href="https://sanjeevmk.github.io/bliss_webpage/">Project Page</a>
 </div>
 </div>
 <div style="clear:both"></div>
